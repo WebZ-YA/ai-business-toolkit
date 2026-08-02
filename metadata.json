@@ -1,0 +1,8 @@
+{
+  "name": "AI Business Toolkit",
+  "description": "35+ Instant AI, SaaS, and Digital Productivity Tools",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
